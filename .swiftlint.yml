@@ -1,5 +1,5 @@
 disabled_rules: # rule identifiers to exclude from running
-  - variable_name
+  - identifier_name
   - force_cast
   - todo #delete it later
   - file_length
